@@ -1,0 +1,5 @@
+{
+  "name": "오늘 뭐 먹지?",
+  "description": "사용자 맞춤형 레시피 추천 앱. 연령, 성별, 건강 상태, 보유 재료 등 다양한 조건에 따라 Gemini AI가 최적의 레시피를 제안해줍니다.",
+  "requestFramePermissions": []
+}
